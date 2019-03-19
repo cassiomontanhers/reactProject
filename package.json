@@ -1,0 +1,32 @@
+{
+  "name": "reactproject",
+  "version": "1.0.0",
+  "description": "React Tutorial Study Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassiomontanhers/reactProject.git"
+  },
+  "keywords": [
+    "React",
+    "Web",
+    "App"
+  ],
+  "author": "Cassio Montanher Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassiomontanhers/reactProject/issues"
+  },
+  "homepage": "https://github.com/cassiomontanhers/reactProject#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "nodejs": "0.0.0",
+    "promise": "^8.0.2",
+    "promise-mysql": "^3.3.1"
+  }
+}
